@@ -3,7 +3,7 @@
 **Effective Date:** January 4, 2026  
 **Last Updated:** January 4, 2026
 
-These Terms of Service ("Terms") govern your access to and use of **Archivia** (the "App"). The App is provided by **Nikolay Dimitrov** (individual, Bulgaria) ("Provider", "I", "me", "my").
+These Terms of Service ("Terms") govern your access to and use of **Archivia** (the "App"). The App is provided by **Nikolay Dimitrov Simeonov** (individual, Bulgaria) ("Provider", "I", "me", "my").
 
 **Contact:** ndimitrov992@gmail.com
 
